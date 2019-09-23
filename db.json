@@ -1,4 +1,4 @@
-  "posts": [
+[
     {
       "id": 1,
       "title": "post 1",
@@ -9,4 +9,4 @@
       "title": "post 2",
       "content": "content content content",
     },
-  ]
+]
